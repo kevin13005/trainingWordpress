@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[1]]></id>
+		<mdp><![CDATA[123]]></mdp>
+		<mail><![CDATA[kev@gmail.com]]></mail>
+		<nom><![CDATA[kevin]]></nom>
+	</node>
+	<node>
+		<id><![CDATA[2]]></id>
+		<mdp><![CDATA[345]]></mdp>
+		<mail><![CDATA[kiki@yahoo.fr]]></mail>
+		<nom><![CDATA[kiki]]></nom>
+	</node>
+	<node>
+		<id><![CDATA[3]]></id>
+		<mdp><![CDATA[789]]></mdp>
+		<mail><![CDATA[juju@gmail.fr]]></mail>
+		<nom><![CDATA[juju]]></nom>
+	</node>
+</data>

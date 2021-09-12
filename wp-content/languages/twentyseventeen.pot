@@ -1,0 +1,383 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: twentyseventeen\n"
+"POT-Creation-Date: 2021-09-08 16:15+0200\n"
+"PO-Revision-Date: 2021-09-08 16:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ../themes/twentyseventeen\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:49 index.php:61 search.php:50 taxonomy-regions-paca.php:60
+#: taxonomy-regions.php:59
+msgid "Previous page"
+msgstr ""
+
+#: archive.php:50 index.php:62 search.php:51 taxonomy-regions-paca.php:61
+#: taxonomy-regions.php:60
+msgid "Next page"
+msgstr ""
+
+#: archive.php:51 index.php:63 search.php:52 taxonomy-regions-paca.php:62
+#: taxonomy-regions.php:61
+msgid "Page"
+msgstr ""
+
+#: comments.php:62
+msgid "Reply"
+msgstr ""
+
+#: comments.php:71 single.php:33
+msgid "Previous"
+msgstr ""
+
+#: comments.php:72 single.php:34
+msgid "Next"
+msgstr ""
+
+#: comments.php:82
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:69 functions.php:211
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:70 functions.php:222
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:344
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:346
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+
+#: functions.php:356
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:358 functions.php:370
+msgid "Add widgets here to appear in your footer."
+msgstr ""
+
+#: functions.php:368
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:398 template-parts/page/content-front-page-panels.php:45
+#: template-parts/page/content-front-page.php:44
+#: template-parts/post/content-audio.php:84
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:83 template-parts/post/content.php:57
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: functions.php:491
+msgid "Expand child menu"
+msgstr ""
+
+#: functions.php:492
+msgid "Collapse child menu"
+msgstr ""
+
+#: header.php:28
+msgid "Skip to content"
+msgstr ""
+
+#: inc/back-compat.php:40 inc/back-compat.php:54 inc/back-compat.php:73
+#, php-format
+msgid ""
+"Twenty Seventeen requires at least WordPress version 4.7. You are running "
+"version %s. Please upgrade and try again."
+msgstr ""
+
+#: inc/block-patterns.php:17
+msgid "Twenty Seventeen"
+msgstr ""
+
+#: inc/block-patterns.php:28
+msgid "Large Heading with Button"
+msgstr ""
+
+#: inc/block-patterns.php:31
+msgid "Attract Leads with Marketing Campaigns that Work"
+msgstr ""
+
+#: inc/block-patterns.php:36 inc/block-patterns.php:155
+msgid "Our Services"
+msgstr ""
+
+#: inc/block-patterns.php:45
+msgid "Images with Text and Link"
+msgstr ""
+
+#: inc/block-patterns.php:54 inc/block-patterns.php:100
+msgid "Black Stripes"
+msgstr ""
+
+#: inc/block-patterns.php:57 inc/block-patterns.php:103
+#: inc/block-patterns.php:162
+msgid "Branding"
+msgstr ""
+
+#: inc/block-patterns.php:60
+msgid ""
+"Communicate your purpose and goals with a beautiful logo that encapsulates "
+"your business."
+msgstr ""
+
+#: inc/block-patterns.php:63 inc/block-patterns.php:80
+#: inc/block-patterns.php:106 inc/block-patterns.php:120
+#: inc/block-patterns.php:134
+msgid "See Case Study"
+msgstr ""
+
+#: inc/block-patterns.php:71 inc/block-patterns.php:114
+msgid "White border"
+msgstr ""
+
+#: inc/block-patterns.php:74 inc/block-patterns.php:162
+msgid "Web Design"
+msgstr ""
+
+#: inc/block-patterns.php:77
+msgid ""
+"Need a website? We&#39;ve got you covered. Our design team will create a "
+"stunning design to transform your brand."
+msgstr ""
+
+#: inc/block-patterns.php:90
+msgid "Images with Link"
+msgstr ""
+
+#: inc/block-patterns.php:117
+msgid "Design"
+msgstr ""
+
+#: inc/block-patterns.php:128
+msgid "Direct Light"
+msgstr ""
+
+#: inc/block-patterns.php:131
+msgid "Strategy"
+msgstr ""
+
+#: inc/block-patterns.php:148
+msgid "Services"
+msgstr ""
+
+#: inc/block-patterns.php:162
+msgid "Web Development"
+msgstr ""
+
+#: inc/block-patterns.php:170
+msgid "Content Strategy"
+msgstr ""
+
+#: inc/block-patterns.php:170
+msgid "Marketing &amp; SEO"
+msgstr ""
+
+#: inc/block-patterns.php:170
+msgid "Video Production"
+msgstr ""
+
+#: inc/block-patterns.php:184
+msgid "Contact Us"
+msgstr ""
+
+#: inc/block-patterns.php:188
+msgid "We are proud to serve outstanding clients."
+msgstr ""
+
+#: inc/block-patterns.php:193
+msgid "Contact us"
+msgstr ""
+
+#: inc/custom-header.php:56
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/custom-header.php:127
+msgid "Play background video"
+msgstr ""
+
+#: inc/custom-header.php:128
+msgid "Pause background video"
+msgstr ""
+
+#: inc/customizer.php:60
+msgid "Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Light"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer.php:89
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:106
+msgid "Page Layout"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid ""
+"When the two-column layout is assigned, the page title is in one column and "
+"content is in the other."
+msgstr ""
+
+#: inc/customizer.php:111 inc/customizer.php:170
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer.php:112 inc/customizer.php:171
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer.php:142
+#, php-format
+msgid "Front Page Section %d Content"
+msgstr ""
+
+#: inc/customizer.php:143
+msgid ""
+"Select pages to feature in each area from the dropdowns. Add an image to a "
+"section by setting a featured image in the page editor. Empty sections will "
+"not be displayed."
+msgstr ""
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/template-tags.php:21
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:85
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:89
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:117
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/template-tags.php:158
+#, php-format
+msgid "Front Page Section %s Placeholder"
+msgstr ""
+
+#: index.php:27 taxonomy-regions-paca.php:27 taxonomy-regions.php:27
+msgid "Posts"
+msgstr ""
+
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:26 template-parts/post/content-none.php:18
+msgid "Nothing Found"
+msgstr ""
+
+#: search.php:59
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single.php:33
+msgid "Previous Post"
+msgstr ""
+
+#: single.php:34
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/footer/site-info.php:18
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: template-parts/footer/site-info.php:21
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: template-parts/header/site-branding.php:34
+#: template-parts/navigation/navigation-top.php:31
+msgid "Scroll down to content"
+msgstr ""
+
+#: template-parts/navigation/navigation-top.php:17
+msgid "Menu"
+msgstr ""
+
+#: template-parts/page/content-front-page.php:50
+#: template-parts/page/content-page.php:26
+#: template-parts/post/content-audio.php:91
+#: template-parts/post/content-gallery.php:78
+#: template-parts/post/content-image.php:68
+#: template-parts/post/content-video.php:90 template-parts/post/content.php:64
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-none.php:28
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
